@@ -108,15 +108,16 @@ Para cada técnica, la app:
 
 ![Explicación en vivo de un algoritmo mientras se reproduce](screens/mobile.png)
 
-### El truco para no cansarte de hacer clic: la tecla Enter
+### El truco para no cansarte de hacer clic: Enter (o tocar el cubo)
 
-Si tienes que practicar un algoritmo de 8, 10 o 14 movimientos, tocar letra por letra con el ratón o el dedo cansa enseguida. Por eso, en vez de hacer clic en cada letra, puedes simplemente **pulsar la tecla Enter**:
+Si tienes que practicar un algoritmo de 8, 10 o 14 movimientos, tocar letra por letra con el ratón o el dedo cansa enseguida. Por eso, en vez de hacer clic en cada letra, puedes simplemente **pulsar la tecla Enter** — o, más cómodo todavía en el móvil, **tocar el cubo directamente** (sin arrastrarlo):
 
-- Cada vez que pulsas Enter, la app ejecuta automáticamente **la siguiente letra** del algoritmo — la que esté marcada con un parpadeo naranja es la que toca ahora.
-- Vas pulsando Enter, Enter, Enter... y el cubo va girando letra a letra, a tu ritmo, sin que tengas que apuntar y hacer clic cada vez.
-- Al llegar a la última letra, si vuelves a pulsar Enter, **empieza otra vez desde el principio** — así puedes repetir el algoritmo en bucle tantas veces como quieras con solo ir tocando una tecla, hasta que te salga de memoria.
+- Cada vez que pulsas Enter o tocas el cubo, la app ejecuta automáticamente **la siguiente letra** del algoritmo — la que esté marcada con un parpadeo naranja es la que toca ahora.
+- Vas tocando, tocando, tocando... y el cubo va girando letra a letra, a tu ritmo, sin que tengas que apuntar a un botón pequeño y acertarle cada vez. En el móvil puedes tocar en cualquier punto del cubo con el pulgar mientras sujetas el teléfono con las dos manos.
+- Al llegar a la última letra, si vuelves a tocar, **empieza otra vez desde el principio** — así puedes repetir el algoritmo en bucle tantas veces como quieras con un simple toque, hasta que te salga de memoria.
+- Un toque simple (sin mover el dedo) avanza un paso; si arrastras para girar la vista o pellizcas para hacer zoom, la app lo detecta y no cuenta como un paso — puedes seguir moviendo la cámara con total normalidad.
 
-Este modo es independiente del botón "Iniciar demo" (que reproduce todo el algoritmo seguido y animado): la tecla Enter es para cuando tú quieres ir letra por letra, a tu propio ritmo, sin usar las manos para hacer clic constantemente.
+Este modo es independiente del botón "Iniciar demo" (que reproduce todo el algoritmo seguido y animado): Enter/tocar el cubo es para cuando tú quieres ir letra por letra, a tu propio ritmo.
 
 Técnico: la práctica con la técnica "Esquinas blancas" combina ambos sistemas (el contador de repeticiones de la esquina y el avance manual con Enter), así que también puedes recorrer con Enter una esquina que necesite 1 o 2 repeticiones del disparador.
 
