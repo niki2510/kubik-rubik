@@ -4072,7 +4072,7 @@ function TypeText({text,speed=14}){
   }),speed);
   return()=>clearInterval(id)
  },[text]);
- return U0('p',{className:'explain-text','aria-live':'polite'},[text.slice(0,n),n<(text?text.length:0)&&U0('span',{className:'tw-cursor',key:'cur'},'▌')]);
+ return ON.createElement('p',{className:'explain-text','aria-live':'polite'},text.slice(0,n),n<(text?text.length:0)&&ON.createElement('span',{className:'tw-cursor'},'▌'));
 }
 function cubeTouchStart(c,rect,x,y,id){
  if(!c.freePlay||c.isBusy()||!c.cubeGroup||!c.camera)return null;
