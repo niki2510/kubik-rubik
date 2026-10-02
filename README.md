@@ -104,8 +104,21 @@ Para cada técnica, la app:
 - Lo ejecuta en 3D delante de ti, a la velocidad que elijas.
 - Te explica **en vivo, con efecto de máquina de escribir**, qué hace cada giro (qué capa gira, en qué sentido) y por qué esa técnica funciona — en **español, inglés o ruso**.
 - Te deja pausar, avanzar paso a paso o repetirlo las veces que haga falta hasta que se quede en tus dedos.
+- Cada letra del algoritmo es también un botón: tócala y verás **solo ese giro** ejecutarse en el cubo, para entender una letra suelta sin reproducir toda la secuencia.
 
 ![Explicación en vivo de un algoritmo mientras se reproduce](screens/mobile.png)
+
+### El truco para no cansarte de hacer clic: la tecla Enter
+
+Si tienes que practicar un algoritmo de 8, 10 o 14 movimientos, tocar letra por letra con el ratón o el dedo cansa enseguida. Por eso, en vez de hacer clic en cada letra, puedes simplemente **pulsar la tecla Enter**:
+
+- Cada vez que pulsas Enter, la app ejecuta automáticamente **la siguiente letra** del algoritmo — la que esté marcada con un parpadeo naranja es la que toca ahora.
+- Vas pulsando Enter, Enter, Enter... y el cubo va girando letra a letra, a tu ritmo, sin que tengas que apuntar y hacer clic cada vez.
+- Al llegar a la última letra, si vuelves a pulsar Enter, **empieza otra vez desde el principio** — así puedes repetir el algoritmo en bucle tantas veces como quieras con solo ir tocando una tecla, hasta que te salga de memoria.
+
+Este modo es independiente del botón "Iniciar demo" (que reproduce todo el algoritmo seguido y animado): la tecla Enter es para cuando tú quieres ir letra por letra, a tu propio ritmo, sin usar las manos para hacer clic constantemente.
+
+Técnico: la práctica con la técnica "Esquinas blancas" combina ambos sistemas (el contador de repeticiones de la esquina y el avance manual con Enter), así que también puedes recorrer con Enter una esquina que necesite 1 o 2 repeticiones del disparador.
 
 ## Controla el cubo como quieras
 
