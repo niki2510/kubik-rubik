@@ -120,6 +120,16 @@ Este modo es independiente del botón "Iniciar demo" (que reproduce todo el algo
 
 Técnico: la práctica con la técnica "Esquinas blancas" combina ambos sistemas (el contador de repeticiones de la esquina y el avance manual con Enter), así que también puedes recorrer con Enter una esquina que necesite 1 o 2 repeticiones del disparador.
 
+### "Repite el algoritmo hasta que se resuelva": también en Sune y Anti-Sune
+
+Esto no se queda solo en las esquinas de la primera capa. En el método de principiante, orientar la última capa (OLL) con **Sune** o **Anti-Sune** funciona igual en la vida real: a veces con una sola repetición se orienta todo; otras veces hace falta repetirlo 2 o incluso 3 veces, girando la capa de arriba (`U`) entre una repetición y la siguiente para "apuntar" bien al siguiente caso.
+
+La app reproduce justo esa experiencia:
+
+- Cada vez que reproduces "Sune" o "Anti-Sune", la cantidad de repeticiones necesarias (1, 2 o 3) y los giros `U` intermedios se generan de forma distinta, como en una última capa real desordenada.
+- Ves en vivo cuántas veces llevas repetido el algoritmo y cuántas te faltan, exactamente igual que con las esquinas.
+- Esos giros `U` de ajuste aparecen también como letras normales del algoritmo, así que la app te explica igualmente qué son y por qué están ahí.
+
 ## Controla el cubo como quieras
 
 - **Ratón/dedo**: arrastra una cara para girarla, arrastra el fondo para orbitar la cámara.
